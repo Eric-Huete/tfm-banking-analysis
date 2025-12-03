@@ -13,6 +13,15 @@ It includes:
 
 ---
 
+Data Availability
+
+The raw datasets used in this project exceed GitHub's file size limits (25MB per file).  
+For this reason, only sample processed datasets are included in `/data/processed/`.
+
+If you need access to the full dataset for validation or review, feel free to contact me.
+
+---
+
 ## Project Structure
 
 ```
