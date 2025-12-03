@@ -5,6 +5,15 @@ End-to-end analytics project for a fictitious banking company, covering data cle
 
 ---
 
+### Data Availability
+
+The raw datasets used in this project exceed GitHub's file size limits (25MB per file).  
+For this reason, only sample processed datasets are included in `/data/processed/`.
+
+If you need access to the full dataset for validation or review, feel free to contact me.
+
+---
+
 ## Highlights
 
 - Built a **Propensity-to-Buy model** to predict which products clients are likely to purchase  
